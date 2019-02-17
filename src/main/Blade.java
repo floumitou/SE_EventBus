@@ -1,24 +1,8 @@
-public class Blade implements IBlade {
+public class Blade{
 
     private int Id;
     private Material material;
 
-    @Override
-    public void start(){
-
-    }
-
-    @Override
-    public void increaseRMP(int value){
-
-
-    }
-
-    @Override
-    public void decreaseRMP(int value){
-
-
-    }
 
 }
 

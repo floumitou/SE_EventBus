@@ -2,6 +2,7 @@ public class Gear implements IGear {
 
     private Type type;
     private boolean isDown, isBreakSet;
+    private Wheel[] wheels;
 
     @Override
     public void up(){

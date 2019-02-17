@@ -1,4 +1,4 @@
-public interface IBlade {
+public interface IFan {
 
     void start();
 
